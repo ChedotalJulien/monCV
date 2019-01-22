@@ -1,0 +1,79 @@
+
+
+body {
+	font-family: 'Share Tech', sans-serif;
+
+}
+
+h1,h2,h3{
+	color: #343a40;
+}
+
+h4{
+	color: #343a40;
+	text-align: center;
+	text-decoration: bold;
+}
+span{
+	color: #6c757d;
+}
+
+a{
+	text-shadow: #ffc107;
+	color: #6c757d;
+	font-style: 
+}
+
+
+.card {
+	margin-top: 0%;
+	background-color:#ffff;
+}
+.card-body {
+	-ms-flex: 1 1 auto;
+	flex: 1 1 auto;
+	padding: 0rem;
+	border
+
+
+
+}
+
+.container-fluid {
+
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.btn-info {
+	color: black;
+	background-color: #ffff;
+	border-color: #17a2b8;
+}
+
+.dropdown-divider {
+	height: 0;
+	margin: 0,2rem 0;
+	overflow: hidden;
+	border-top: 3px solid #6c757d;
+	padding-top: 30px;
+}
+
+/* POUR LES ICONES */
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-decoration: none;
+  border-radius: 10%;
+}
+
+.fa-facebook {
+  background: #6c757d;
+  color: white;
+}
